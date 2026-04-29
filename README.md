@@ -183,7 +183,7 @@ python main.py --predict
 ## 👤 Author
 
 **Seshu** · Student | VLSI & Data Science learner  
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [@GITHUB PROFILE](https://github.com/seshu-8)
 
 ---
 
