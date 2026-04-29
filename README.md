@@ -115,20 +115,34 @@ python main.py --predict
 
 ## 📊 Output Files
 
-| File | Description |
-|---|---|
-| `images/01_churn_distribution.png` | Pie + bar chart of churn |
-| `images/02_churn_by_contract.png` | Churn rate per contract type |
-| `images/03_numeric_distributions.png` | Feature histograms by churn |
-| `images/04_correlation_heatmap.png` | Feature correlation matrix |
-| `images/05_confusion_matrix.png` | Prediction confusion matrix |
-| `images/06_roc_curve.png` | ROC-AUC curve |
-| `images/07_feature_importance.png` | Top 15 feature importances |
-| `images/08_model_comparison.png` | All 4 models side-by-side |
-| `images/09_churn_risk_segments.png` | Low / Medium / High risk pie |
-| `outputs/model_comparison.csv` | Metric table for all models |
-| `outputs/demo_predictions.csv` | Predictions for demo customers |
-| `models/best_model.pkl` | Best trained model |
+## Visualizations
+
+### Churn Distribution
+![Churn Distribution](images/01_churn_distribution.png)
+
+### Churn by Contract Type
+![Churn by Contract](images/02_churn_by_contract.png)
+
+### Numeric Feature Distributions
+![Numeric Distributions](images/03_numeric_distributions.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/04_correlation_heatmap.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/05_confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](images/06_roc_curve.png)
+
+### Feature Importance
+![Feature Importance](images/07_feature_importance.png)
+
+### Model Comparison
+![Model Comparison](images/08_model_comparison.png)
+
+### Churn Risk Segments
+![Churn Risk Segments](images/09_churn_risk_segments.png)
 
 ---
 
