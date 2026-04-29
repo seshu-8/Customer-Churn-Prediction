@@ -1,0 +1,6 @@
+customer_id,churn_prediction,churn_probability,risk_level
+DEMO001,1,0.9671,High
+DEMO002,0,0.0806,Low
+DEMO003,1,0.6882,High
+DEMO004,0,0.1465,Low
+DEMO005,1,0.9744,High
